@@ -19,6 +19,9 @@
     "react-markdown": "^8.0.7",
     "react-router-dom": "^6.30.0",
     "react-scripts": "^5.0.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1",
     "yup": "^1.1.1"
   },
   "scripts": {

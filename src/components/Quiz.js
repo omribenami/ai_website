@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Box, Typography, Radio, RadioGroup, FormControlLabel, FormControl, Button, Paper, Divider, LinearProgress, Alert } from '@mui/material';
-import CodeEditor from './CodeEditor';
+import CodeEditor from '../components/CodeEditor'; // ✅ correct
+
 
 const Quiz = ({ 
   quiz = {

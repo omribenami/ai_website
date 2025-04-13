@@ -3,8 +3,8 @@ import { Box, Typography, Container, Button, CircularProgress } from '@mui/mater
 import { ResponsiveLayout } from '../components/ResponsiveLayout';
 import ResponsiveNavbar from '../components/ResponsiveNavbar';
 import ResponsiveFooter from '../components/ResponsiveFooter';
-import { CodeEditor } from '../components/CodeEditor';
-import { Quiz } from '../components/Quiz';
+import CodeEditor from '../components/CodeEditor'; // ✅ correct
+import  Quiz  from '../components/Quiz';
 import { InteractiveVisualization } from '../components/InteractiveVisualization';
 import ProgressTracker from '../components/ProgressTracker';
 import SearchComponent from '../components/SearchComponent';
