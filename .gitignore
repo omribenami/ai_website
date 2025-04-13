@@ -11,3 +11,6 @@ yarn-error.log*
 build/
 dist/
 coverage/
+
+# Local Netlify folder
+.netlify
