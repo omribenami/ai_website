@@ -1,0 +1,50 @@
+(base) PS D:\Downloads\ai_website> ls
+
+
+    Directory: D:\Downloads\ai_website
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         4/13/2025  12:21 AM                .netlify
+-a----         4/13/2025  12:21 AM            204 .gitignore
+-a----         4/12/2025  11:45 PM           3928 App.js
+-a----         4/12/2025  11:45 PM            845 AppRouter.js
+-a----         4/12/2025  11:45 PM           5708 CodeEditor.js
+-a----         4/12/2025  11:45 PM           4164 Course.js
+-a----         4/12/2025  11:45 PM           7331 CourseCatalog.js
+-a----         4/12/2025  11:45 PM          13229 CourseDetails.js
+-a----         4/12/2025  11:45 PM           4208 CourseViewer.js
+-a----         4/12/2025  11:45 PM           7215 course_structure.md
+-a----         4/12/2025  11:45 PM           3698 DEPLOYMENT.md
+-a----         4/12/2025  11:45 PM            922 docker-compose.yml
+-a----         4/12/2025  11:45 PM            119 Dockerfile.client
+-a----         4/12/2025  11:45 PM            119 Dockerfile.server
+-a----         4/12/2025  11:45 PM          10026 HomePage.js
+-a----         4/12/2025  11:45 PM            812 index.html
+-a----         4/12/2025  11:45 PM           2209 index.js
+-a----         4/12/2025  11:45 PM           8997 InteractiveVisualization.js
+-a----         4/12/2025  11:45 PM           4590 MarkdownRenderer.js
+-a----         4/12/2025  11:45 PM          11988 module1_environment_setup.md
+-a----         4/12/2025  11:45 PM           8757 module1_introduction.md
+-a----         4/12/2025  11:45 PM          14616 module1_python_for_ai.md
+-a----         4/12/2025  11:45 PM          35982 module2_ml_fundamentals.md
+-a----         4/12/2025  11:45 PM          70449 module3_deep_learning.md
+-a----         4/13/2025  12:15 AM            122 netlify.toml
+-a----         4/12/2025  11:45 PM            840 Order.js
+-a----         4/12/2025  11:45 PM           1101 package.json
+-a----         4/12/2025  11:45 PM          62264 practical_experiments.md
+-a----         4/12/2025  11:45 PM           8777 ProgressTracker.js
+-a----         4/12/2025  11:45 PM          10937 Quiz.js
+-a----         4/12/2025  11:45 PM           3338 README.md
+-a----         4/12/2025  11:45 PM          20784 resources_and_references.md
+-a----         4/12/2025  11:45 PM           5399 ResponsiveElements.js
+-a----         4/12/2025  11:45 PM           6313 ResponsiveFooter.js
+-a----         4/12/2025  11:45 PM           3348 ResponsiveLayout.js
+-a----         4/12/2025  11:45 PM          10252 ResponsiveNavbar.js
+-a----         4/12/2025  11:45 PM          10302 SearchComponent.js
+-a----         4/12/2025  11:45 PM           1621 server.js
+-a----         4/12/2025  11:45 PM           5385 TestPage.js
+-a----         4/12/2025  11:45 PM           1283 todo.md
+-a----         4/12/2025  11:45 PM           1970 User.js
+-a----         4/12/2025  11:45 PM           8552 website_structure.md
